@@ -1,3 +1,2 @@
-# Hello-world
-Just another repository
-My name is sid and I love PRO ERA music. 
+#IllS3C Labs (Scripts, Tools, How-to's, & Detections)
+A collection of practical scripts, detection logic, playbooks, and security tools
