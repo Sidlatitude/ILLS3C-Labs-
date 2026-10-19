@@ -1,0 +1,1 @@
+﻿Search-ADAccount -LockedOut | Select-Object Name, SamAccountName, LockedOut, LastLogonDate | Format-Table -AutoSize
